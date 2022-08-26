@@ -16,7 +16,7 @@ This software is STILL work in progress, and will have beta releases with source
 
 We have some socials, so follow us there!
 
-Scratch[https://scratch.mit.edu/users/Openedit/]
-GitHub Repo so you can stay tuned[https://github.com/ST5Sneaky/Openedit/]
+Scratch(https://scratch.mit.edu/users/Openedit/)
+GitHub Repo so you can stay tuned(https://github.com/ST5Sneaky/Openedit/)
 
 bill nye the science guy
