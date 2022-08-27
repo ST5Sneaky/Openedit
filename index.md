@@ -8,6 +8,11 @@ Want to make videos for YouTube or TikTok but have no idea how to edit them? You
 
 This program is open-source and can be used for modifications!
 
+### BETA IS OUT LETS GOOOO
+
+CHECK THE RELEASES PANEL TO DOWNLOAD THE BETA [NOW](https://github.com/ST5Sneaky/Openedit/releases)
+DOWNLOAD NOWWWWWWWWWWWWW!!!!!!!!!!!
+
 ### Work-In-Progress Software
 
 This software is STILL work in progress, and will have beta releases with source code only so..stay tuned with it!
