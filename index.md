@@ -10,8 +10,42 @@ This program is open-source and can be used for modifications!
 
 ### BETA IS OUT LETS GOOOO
 
-CHECK THE RELEASES PANEL TO DOWNLOAD THE BETA [NOW](https://github.com/ST5Sneaky/Openedit/releases)
+CHECK THE RELEASES PANEL TO DOWNLOAD THE RECENTEST VERSION OF THE BETA [NOW](https://github.com/ST5Sneaky/Openedit/releases/download/openedit-beta-2/OpeneditBeta0.2Installer.EXE)
 DOWNLOAD NOWWWWWWWWWWWWW!!!!!!!!!!!
+
+( The recentest version is v0.2. )
+
+### PROGRAMMING LANGUAGE!
+
+So, a batch file to start the OEPL (OpeneditProgrammingLanguage) will be made soon and can be used to run Openedit modes quickly through automations.
+
+It's very simple.
+
+To start the programming language you need to have Openedit installed and you need to start the cd command to direct to the main program. The batch file coming soon will do this for you.
+
+So, open your local terminal, and type in,
+
+`cd (your folder where you installed openedit)`
+
+OK, after that, you have started OEPL.
+
+Check FFmpeg version by typing in,
+
+`start ffvd.bat`
+
+So, to clip a video, use,
+
+`start openeditclip.bat`
+
+To compress a video, use
+
+`start openeditcompresser.bat`
+
+To mix a video, use
+
+`start openeditmixer.bat`
+
+Bla, bla bla, you get it.
 
 ### Work-In-Progress Software
 
